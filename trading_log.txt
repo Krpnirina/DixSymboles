@@ -1,0 +1,2 @@
+# Fichier de log pour Deriv Bot
+# Toutes les actions (analyse, signaux, erreurs, trades) s'y affichent

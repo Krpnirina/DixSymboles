@@ -1,0 +1,12 @@
+{
+  "R_10": { "active": false, "stake": 0.35, "history": [] },
+  "R_10_1s": { "active": false, "stake": 0.35, "history": [] },
+  "R_25": { "active": false, "stake": 0.35, "history": [] },
+  "R_25_1s": { "active": false, "stake": 0.35, "history": [] },
+  "R_50": { "active": false, "stake": 0.35, "history": [] },
+  "R_50_1s": { "active": false, "stake": 0.35, "history": [] },
+  "R_75": { "active": false, "stake": 0.35, "history": [] },
+  "R_75_1s": { "active": false, "stake": 0.35, "history": [] },
+  "R_100": { "active": false, "stake": 0.35, "history": [] },
+  "R_100_1s": { "active": false, "stake": 0.35, "history": [] }
+}
