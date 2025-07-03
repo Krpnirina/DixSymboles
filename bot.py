@@ -6,7 +6,7 @@ import websockets
 # ------------------------- CONFIGURATION -------------------------
 
 CONFIG = {
-    "APP_ID": 71130,
+    "APP_ID": 76510,
     "INITIAL_STAKE": 0.35,
     "MARTINGALE_MULTIPLIER": 3,
     "GRANULARITY": 120,
